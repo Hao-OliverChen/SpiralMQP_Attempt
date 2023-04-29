@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: MusicTrack_BossFight
   m_EditorClassIdentifier: 
   musicName: Boss Fight
-  musicClip: {fileID: 8300000, guid: bef95ee2387f39146a56821f6cc03c9a, type: 3}
+  musicClip: {fileID: 8300000, guid: 0f806f84b8909b14bb0737ce57a8ace7, type: 3}
   musicVolume: 0.6
